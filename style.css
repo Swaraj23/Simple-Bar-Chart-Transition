@@ -1,0 +1,31 @@
+
+body{
+	font: 12px helvetica;
+	background-color: #a6a6a6;
+}
+.bar {
+  fill: steelblue;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+h1{
+	width: 250px;
+	margin: 2% auto 0;
+	color: #176363;
+}
+#charts{
+	width: 640px;
+	height: 370px;
+	border: 1px solid #45b2d1;
+	margin: 2% auto;
+	background-color: #fff;
+}
