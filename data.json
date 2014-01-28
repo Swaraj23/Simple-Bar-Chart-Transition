@@ -1,0 +1,11 @@
+[
+	
+	 {"Days":"Mon","Orders":150},
+	{"Days":"Tue","Orders":200},
+	{"Days":"Wed","Orders":140},
+	{"Days":"Thu","Orders":160},
+	{"Days":"Fri","Orders":180},
+	{"Days":"Sat","Orders":300},
+	{"Days":"Sun","Orders":390}
+    
+]
